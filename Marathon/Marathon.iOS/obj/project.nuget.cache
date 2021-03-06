@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzGIlTR/zY9pHqFxcvnserSAgyK+QIfQ+5L3ufqKmprgSfHnEwQLjfWOvhX3dnhRNp5/G2aHhsHOg2MMrC45tQ==",
+  "success": true,
+  "projectFilePath": "C:\\laragon\\www\\marathon\\Movil\\Marathon\\Marathon.iOS\\Marathon.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador.DESKTOP-I6GUGH4\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrador.DESKTOP-I6GUGH4\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Administrador.DESKTOP-I6GUGH4\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
